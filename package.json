@@ -1,0 +1,29 @@
+{
+  "name": "informatics-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs-locals": "^1.0.2",
+    "express": "^4.17.1",
+    "express-validator": "^6.2.0",
+    "nodemon": "^2.0.2",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lim5max/informatics-chat.git"
+  },
+  "author": "Max Still",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lim5max/informatics-chat/issues"
+  },
+  "homepage": "https://github.com/lim5max/informatics-chat#readme"
+}
